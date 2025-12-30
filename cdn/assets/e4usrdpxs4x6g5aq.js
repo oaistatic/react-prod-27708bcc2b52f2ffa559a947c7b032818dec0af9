@@ -1,0 +1,2 @@
+import{h as m}from"./g3lybt7hj0s143gw.js";import{c5 as n}from"./k65njl5wlgspihfr.js";import"./mtk1qztvnb31pw5r.js";import"./fg33krlcm0qyi6yw.js";const h=(c={})=>{var i;const o=new Set((i=c.preserve)!=null?i:[]);return l=>{n(l,"textDirective",(s,t,r)=>{if(!m.includes(s.name)||o.has(s.name)||!r||typeof t!="number")return;const e=r.children[t-1];e&&e.type==="text"&&e.value.endsWith(" ")&&(e.value=e.value.slice(0,-1)),r.children.splice(t,1)})}};export{h as stripDirectivePlugin};
+//# sourceMappingURL=e4usrdpxs4x6g5aq.js.map

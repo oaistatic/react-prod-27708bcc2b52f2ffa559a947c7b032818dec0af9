@@ -1,0 +1,2 @@
+import{L as e}from"./mtk1qztvnb31pw5r.js";const r="go-12-months-free";function p(o,t){return o===e.GO?t===r?"https://help.openai.com/en/articles/12739021-chatgpt-go-promotion-india":"https://help.openai.com/en/articles/12501659-chatgpt-go-promotions-and-referrals":"https://help.openai.com/en/articles/10492689-chatgpt-plus-promotions-referrals"}export{p as g};
+//# sourceMappingURL=g4m5jvhceaijyr4o.js.map

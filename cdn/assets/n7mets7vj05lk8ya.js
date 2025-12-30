@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/i2qk80cf0ci72s9b.js","assets/k65njl5wlgspihfr.js","assets/fg33krlcm0qyi6yw.js","assets/mtk1qztvnb31pw5r.js","assets/root-mcq3deyb.css","assets/conversation-small-332fs9rk.css"])))=>i.map(i=>d[i]);
+import{_ as i}from"./fg33krlcm0qyi6yw.js";import{bc as a,bd as s,rI as e}from"./mtk1qztvnb31pw5r.js";import{dF as m}from"./k65njl5wlgspihfr.js";async function _(){const o=setTimeout(()=>{a.count(s.ATLAS,"chatgpt_aura_host_impl_load_timeout")},3e3),t=await i(()=>import("./i2qk80cf0ci72s9b.js"),__vite__mapDeps([0,1,2,3,4,5]));clearTimeout(o),t.initHostConnection(),e(t),setTimeout(()=>m(),0)}export{_ as initHost};
+//# sourceMappingURL=n7mets7vj05lk8ya.js.map

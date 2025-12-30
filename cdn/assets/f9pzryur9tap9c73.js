@@ -1,0 +1,2 @@
+import{c as a,n as c}from"./fg33krlcm0qyi6yw.js";import{i8 as l,V as i}from"./k65njl5wlgspihfr.js";const u="/cdn/assets/logo-garden-ciabvfcl.webp",g={src:u};function p(){"use forget";const t=a.c(3),[o]=c();let r,e;if(t[0]!==o){e=Symbol.for("react.early_return_sentinel");t:{const s=o.get(l);if(!s){e=null;break t}const n=s.trim();r=i.test(n)?n:null}t[0]=o,t[1]=r,t[2]=e}else r=t[1],e=t[2];return e!==Symbol.for("react.early_return_sentinel")?e:r}export{g as L,p as u};
+//# sourceMappingURL=f9pzryur9tap9c73.js.map

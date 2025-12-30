@@ -1,0 +1,2 @@
+import{e as u,j as l}from"./fg33krlcm0qyi6yw.js";import{hG as m,rq as r,rr as R,b as d}from"./mtk1qztvnb31pw5r.js";import{d0 as c,d1 as G,d2 as x}from"./k65njl5wlgspihfr.js";function h({gizmoId:o,onClose:a}){const t=d(),{data:s}=m(o),{data:e}=c(t,r.Gizmo),n=u(),i=G(t,n,o,r.Gizmo,R.GPTs);if(e==null)return null;const p=s!=null?"Report ".concat(s.gizmo.display.name):"Report";return l.jsx(x,{reasons:e.reasons,submitReport:i,title:p,onClose:a,header:e.header,subHeader:e.header_explanation})}export{h as G};
+//# sourceMappingURL=k5ymvhnpmrn2doa6.js.map

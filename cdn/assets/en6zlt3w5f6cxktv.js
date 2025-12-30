@@ -1,0 +1,2 @@
+import{j as r}from"./fg33krlcm0qyi6yw.js";import{qb as o}from"./mtk1qztvnb31pw5r.js";import{G as t}from"./llove4bcy7api840.js";import{dx as s}from"./k65njl5wlgspihfr.js";const d=({group:e})=>r.jsxs("div",{className:"relative me-3",children:[r.jsx(o,{IconComponent:t,className:"bg-token-bg-tertiary",rounded:!0}),e.is_scim_managed&&r.jsx("div",{className:"bg-token-bg-tertiary absolute -end-1 -bottom-1 rounded-full border-2 border-white p-0.25",children:r.jsx(s,{width:10,height:10})})]});export{d as G};
+//# sourceMappingURL=en6zlt3w5f6cxktv.js.map

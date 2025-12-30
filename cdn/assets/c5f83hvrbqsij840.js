@@ -1,0 +1,2 @@
+import{j as e}from"./fg33krlcm0qyi6yw.js";import{av as l,eQ as c}from"./k65njl5wlgspihfr.js";import{l as x}from"./mtk1qztvnb31pw5r.js";const p=["pptx","xlsx"],o=n=>{const s=p,t=n.split(".").pop();return!t||!s.includes(t)?null:t},S=n=>!!o(n),a={pptx:c,xlsx:l},T=({fileName:n})=>{if(!n)return null;const s=o(n),t=s?a[s]:null,r=s==="xlsx",i=s==="pptx";return t?e.jsx("div",{className:x("rounded-md p-1",r&&"bg-[#04b84c]",i&&"bg-orange-300"),children:e.jsx(t,{className:"m-0 size-4 text-white"})}):null};export{T as F,o as g,S as i};
+//# sourceMappingURL=c5f83hvrbqsij840.js.map
